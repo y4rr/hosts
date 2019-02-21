@@ -1,0 +1,12 @@
+#explicit binary content (reduced diff).
+*.exe      binary
+*.gif      binary
+*.png      binary
+
+#explicit Linux(\n)-EOL.
+*.txt      text    eol=lf
+
+#explicit Windows(\r\n)-EOL.
+*.cmd      text    eol=crlf
+*.js       text    eol=crlf
+README.md          eol=crlf
