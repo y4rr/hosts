@@ -4,7 +4,8 @@
 *.png      binary
 
 #explicit Linux(\n)-EOL.
-*.txt      text    eol=lf
+/*.txt            text    eol=lf
+resources/*.text  text    eol=crlf
 
 #explicit Windows(\r\n)-EOL.
 *.cmd      text    eol=crlf

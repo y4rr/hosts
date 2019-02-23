@@ -7,6 +7,7 @@
 !!youtube.com/annotation
 *##^meta[http-equiv="refresh"]
 *##^noscript
+*$important,script,inline-script,subdocument,xmlhttprequest,third-party,domain=apkmb.com|baypirateproxy.org|celeb.gate.cc|celebrity-leaks.net|eztv.ag|eztv.io|ikwildepiratebay.org|old.robtex.com|onhax.me|proxyonetpb.pet|rarbgtor.org|reddit.com|robtex.com|thefappening.one|thefappening.pro|thefappening.sexy|thefappening.top|thefappening.wiki|thefappeningblog.com|thepiratebay-proxylist.se|thepiratebay.org|uploadproper.com|uplod.ws|xhcdn.com|yifymovieonline.com
 *$websocket
 .ai/
 .apk.apk
@@ -211,6 +212,7 @@
 /click
 /click.cgi
 /clickad
+/clicks.cgi
 /client-timings
 /clipboard.js
 /clipboard.min.js
@@ -514,6 +516,7 @@
 @@||https://eladkarako.github.io/
 @@||https://gist.githubusercontent.com/eladkarako/
 @@||https://github-production-release-asset-*.s3.amazonaws.com/
+@@||https://www.ebay.com/myb/*$important
 AdBlock-detection
 Ebay_Banners
 LiveChat
@@ -559,7 +562,7 @@ api/link.php
 apis.google.com$important,domain=onhax.me
 apis.google.com/*fastbutton*$third-party
 apis.google.com/*plusone*$third-party
-apkmb.com$important,script,inline-script,xmlhttprequest
+apkmb.com$important,script,inline-script,subdocument,xmlhttprequest,third-party
 asmjs
 astrology
 authedmine
@@ -567,7 +570,7 @@ authedminer
 awacs.co.il/extbanners
 banner_click
 bariladaat.com/*123.png
-baypirateproxy.org$important,script,inline-script,xmlhttprequest
+baypirateproxy.org$important,script,inline-script,subdocument,xmlhttprequest,third-party
 bj-lazy-load
 blogger.*/*widgets
 blogger.*/followers
@@ -578,8 +581,8 @@ campaign.*.co.il
 cdn.torrentfunk.com/dl20.png
 cdn.torrentfunk.com/dl30.png
 cdn.torrents-time.com/torrentstime.min.js
-celeb.gate.cc$important,script,inline-script,xmlhttprequest
-celebrity-leaks.net$important,script,inline-script,xmlhttprequest
+celeb.gate.cc$important,script,inline-script,subdocument,xmlhttprequest,third-party
+celebrity-leaks.net$important,script,inline-script,subdocument,xmlhttprequest,third-party
 chartbeat
 chatango.com
 chelpus.defcon5.biz/link_counter.php
@@ -669,8 +672,8 @@ epiclaunch.com/*banner
 events.walla.co.il/events.asp
 exoclick
 exosrv
-eztv.ag$important,script,inline-script,xmlhttprequest
-eztv.io$important,script,inline-script,xmlhttprequest
+eztv.ag$important,script,inline-script,subdocument,xmlhttprequest,third-party
+eztv.io$important,script,inline-script,subdocument,xmlhttprequest,third-party
 f.nanafiles.co.il/Common/Images/pixel.gif
 facebook.com$important,third-party
 facebook.com$subdocument,domain=ynet.co.il
@@ -796,7 +799,7 @@ htjs.php
 html*adflag
 https://www.google.co.il/search$important,script,inline-script
 https://www.google.com/search$important,script,inline-script
-https://xhamster.com/search$important,script,inline-script,xmlhttprequest,subdocument
+https://xhamster.com/search$important,script,inline-script,subdocument,xmlhttprequest,third-party
 hwzone.co.il/*hw_scripts.js
 hwzone.co.il/cubicbig-banner-articles.js
 hwzone.co.il/cubicbig1articles.js
@@ -806,7 +809,7 @@ i1.social.s-msft.com/globalresources/Images/trans.gif
 icefilms.info/*img*.gif
 icefilms.info/cdn-cgi/cl/img.gif
 id.js?accountId
-ikwildepiratebay.org$important,script,inline-script,xmlhttprequest
+ikwildepiratebay.org$important,script,inline-script,subdocument,xmlhttprequest,third-party
 il1.gaiamobile.com/gaia-parsers/xnet.ynet.co.il/ad-wrapper.php
 images.fxp.co.il/advertising
 images.fxp.co.il/clientscript/nanamako.php
@@ -892,7 +895,7 @@ new.citroen.co.il/model/cactus/?utm_source=103
 nr-data
 nullprogram.com*/avatar
 odindownload.com/images/root-android-download.png
-old.robtex.com$important,script,inline-script,xmlhttprequest
+old.robtex.com$important,script,inline-script,subdocument,xmlhttprequest,third-party
 onegoogle*googleapis
 onhax*/*banner
 onhax*/*cloudflare
@@ -903,7 +906,7 @@ onhax*/*rocket
 onhax*/*sale
 onhax*/cdn-cgi/pe/bag2
 onhax*/wp-content/oh-content/imgs/green_btn*.png
-onhax.me$important,script,inline-script,xmlhttprequest,subdocument
+onhax.me$important,script,inline-script,subdocument,xmlhttprequest,third-party
 onlife.co.il/dbcads
 onlife.co.il/sites/all/modules/*newsletter
 onlife.co.il/sites/all/modules/*share
@@ -945,11 +948,11 @@ plus.google.com/+taboola/
 plus.google.com/outbrain
 pooradb
 promotion
-proxyonetpb.pet$important,script,inline-script,xmlhttprequest
+proxyonetpb.pet$important,script,inline-script,subdocument,xmlhttprequest,third-party
 public-ads-manager
 public-api.wordpress.com/connect
 rackcdn
-rarbgtor.org$important,script,inline-script,xmlhttprequest
+rarbgtor.org$important,script,inline-script,subdocument,xmlhttprequest,third-party
 rcs.mako.co.il/*hadshot
 rcs.mako.co.il/*hadshot-2.png
 rcs.mako.co.il/images/*mySupermarket
@@ -961,7 +964,7 @@ rcs.mako.co.il/js/scripts/mako_ga.js
 rcs.mako.co.il/js/scripts/metrics.js
 rcs.mako.co.il/js/scripts/thirdParty.js
 reco.stg.stratus.qa
-reddit.com$important,script,inline-script,xmlhttprequest
+reddit.com$important,script,inline-script,subdocument,xmlhttprequest,third-party
 reddit.com/*favicon
 reddit.com/api/request_promo
 reddit.com/api/request_recommended_link
@@ -1036,15 +1039,15 @@ tevalife.com/images/mensSecrets-NEW.jpg
 tevalife.com/images/searchG.jpg
 tevalife.com/images/top-banner-tevalife-new.jpg
 tevalife.com/images/yediotAward.jpg
-thefappening.one$important,script,inline-script,xmlhttprequest
-thefappening.pro##iframe$important, inline-script, script, xmlhttprequest
-thefappening.sexy$important,script,inline-script,xmlhttprequest
-thefappening.top$important,script,inline-script,xmlhttprequest
-thefappening.wiki$important,script,inline-script,xmlhttprequest
-thefappeningblog.com$important,script,inline-script,xmlhttprequest
+thefappening.one$important,script,inline-script,subdocument,xmlhttprequest,third-party
+thefappening.pro$important,script,inline-script,subdocument,xmlhttprequest,third-party
+thefappening.sexy$important,script,inline-script,subdocument,xmlhttprequest,third-party
+thefappening.top$important,script,inline-script,subdocument,xmlhttprequest,third-party
+thefappening.wiki$important,script,inline-script,subdocument,xmlhttprequest,third-party
+thefappeningblog.com$important,script,inline-script,subdocument,xmlhttprequest,third-party
 themarker.com/pcs/click
-thepiratebay-proxylist.se$important,script,inline-script,xmlhttprequest
-thepiratebay.org$important,script,inline-script,xmlhttprequest
+thepiratebay-proxylist.se$important,script,inline-script,subdocument,xmlhttprequest,third-party
+thepiratebay.org$important,script,inline-script,subdocument,xmlhttprequest,third-party
 thepiratebay.org/*ads
 thepiratebay.org/*exo
 thepiratebay.org/static/js/p.js
@@ -1071,9 +1074,9 @@ upload.so/js/countdown.js
 upload.so/js/share.js
 uploadex.com/tst/dbtn.gif
 uploadex.com/tst/download1.png
-uploadproper.com$important,script,inline-script,xmlhttprequest
+uploadproper.com$important,script,inline-script,subdocument,xmlhttprequest,third-party
 uploadshub.com/downloadfiles/*button
-uplod.ws$important,script,inline-script,xmlhttprequest
+uplod.ws$important,script,inline-script,subdocument,xmlhttprequest,third-party
 userscloud.com/_a
 vglnk
 walla.co.il/dist/scripts/vertical/wos
@@ -1099,7 +1102,7 @@ xhamster.com/banner
 xhamster.com/cdn.stats
 xhamster.com/cnt.php
 xhamster.com/videoView
-xhcdn.com$important,inline-script,subdocument,xmlhttprequest,third-party
+xhcdn.com$important,script,inline-script,subdocument,xmlhttprequest,third-party
 xhcdn.com/*ads
 xhcdn.com/*banners
 xhcdn.com/*fingerprintjs
@@ -1114,7 +1117,7 @@ xtube.com/*xtube.min.js
 xtube.com/*xtube.pre.min.js
 xvideos.com/*default.header.static.js
 xvideos.com/*player.html5.static.js
-yifymovieonline.com$important,script,inline-script,xmlhttprequest
+yifymovieonline.com$important,script,inline-script,subdocument,xmlhttprequest,third-party
 ynet.co.il/*/networks.js
 ynet.co.il/*YnetShops
 ynet.co.il/*paywall.js

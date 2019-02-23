@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Expires:        14 days
-! Last modified:  2019-02-21T13:44:30.000Z+00:00 UTC
-! Version:        20190221134430000
+! Last modified:  2019-02-22T20:52:00.000Z+00:00 UTC
+! Version:        20190222205200000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Hide Annoying Elements
-! Rules:          289
+! Rules:          290
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts/issues/
@@ -261,6 +261,7 @@ torrentz.eu##.download > dl:nth-of-type(1), .SimpleAcceptebleTextAds, [href*="ad
 torrentz2.eu##div[style*="position"]
 track.yw56.com.cn##footer
 traklin.co.il##.shabbat_popup, [id*="end_oh_shabbat"], div[style*="position"]
+truebeachporn.com##.footer_links, .menu, .side_column, [class*="toplist"], [src*="images/download"]
 tutsplus.com##[class*="avert"], [class*="ecosystem"], footer
 tvline.com##aside.inline-floating-gallery
 ubuntuforums.org##.signature, .userinfo
@@ -292,7 +293,7 @@ xda-developers.com##.devdb-header-tag, .devdb-tag, .postbit-edited, .postbit-use
 xhamster.com##.ad-overlay, .avdo, .banner, .banner-container, .bottom-announce, .cams-widget, .channel-items, .clipstore-results, .forfriendsonly, .frame, .list-ads, .player-ad-overlay, .player-ads2, .premium-overlay, .right-ads, .socials-container, .static-banner, .wid-banner-container, .wid-cams-widget, .wid-spot-container:nth-child(1), .wid-static-banner, .xh-header, .xplayer-banner, [class*="--backing"], [class*="-ads"], [class*="banner-container"], [class*="download_popup"], [class*="promoted-video"], [class*="sponsor-"], [class*="sponsor"], [class*="static-banner"], [class*="wid-banner"], [class*="widget"], [href*="/premium/"], [href*="banner"], [href*="banners"], [href*="live.com"], [href*="underplayer"], [href*="youtube.com"], [id*="Ads"], [id*="eedback"], [id*="Promo"], [id*="supportAds"], [id^="footer"], [id^="footerBox"], [id^="playerSwf"] > div, [src*="banners"], [src*="live.com"], [src*="youtube.com"], [style*="stripcdn.com/"], a[href*="/dating"], a[href*="/stripchat/"], a[href*="xhamsterlive.com"], a[sub*="cam_model"], a[sub*="community"], div.ts-link-container, div[id] div[style*="width"][style*="height"][style*="overflow"], iframe, img[src*="stripcdn.com/"], noscript, player-container > .xplayer-start-button, table + script:not([src]) + div[id]:not([class])
 xtube.com##.header, .onderSellamPlayer, .pull-right, .share, .tJunkyText, .wrapper > .container:nth-of-type(2), .wrapper > div:last-child, [class*="mPlayer"], [class*="postRoll"], [data-xom*="money"], [data-xom*="oney"], [href*="abbp1.space"], [href*="advert"], [href*="advertis"], [href*="advertise-on"], [href^="data"], [id*="postRoll"], [id^="mainSection"] > .videoPage.row > .col-xl-8.col-xs-24, [id^="postRoll"] > .postRollContent, [id^="tabVideos"] [class*="pull-"], [id^="tabVideos"] > .cntPanel > .row > .stamp.pull-right, [id^="tabVideos"] > .cntPanel > .row > .stamp.pull-right.col-xl-6, [onclick], [src^="data"], [style^="data"], iframe
 yad2.co.il##.articles, .articles_block, .articles_block_body, .intro_block, .magazine_block, .walla_strip, [class*="_footer"], [class*="ekindo"], [href*="adurl"], [id*="_banner"], [id*="_takeover"], [id*="ekindo"], [id*="nanoRep"], [name*="nanoRep"], [onclick*="adurl"], a[href*="/share?"], div[id][style*="display"] + div[id], div[id^="ad_"], div[id^="ub"], div[id^="wb"], div[style*="background-image"][style*="important"], iframe, img[src*="blob"]
-yifymovieonline.com##[id^="content_wrapper"] [class*="pt-"], div[style*="position"]
+yifymovieonline.com##.custom-html-widget, [id^="content_wrapper"] [class*="pt-"], div[style*="position"]
 yoast.com##[id*="om-"]
 youporn.com,youporngay.com##.float-right.sixteen-column, .sixteen-column:nth-of-type(6), [class*="trafficjunky"], [id*="ourFriendsVideoBoxes"], [style^="data"]
 youtube-nocookie.com,youtube.com##.banner .banner-image, .hd-banner .hd-banner-image, .logo.doodle, .search-refinements, .yt-consent-banner, .ytp-title-channel-logo, [class*="-ads-"], [class*="promo"], [class*="related-channel"], [class*="ytp-ad"], [id*="-ads"], [id*="ad_"], [id^="gh-banner"], [id^="header"] > [id^="video-masthead"], [id^="watch-action-panels"]
