@@ -181,6 +181,7 @@ nrg.co.il##.article-socials-tools, .article-toolbar-bottom, .article-tools, .bol
 nullprogram.com##.portrait
 onehowto.com##.compartir, .stars
 onlife.co.il##.affiliates, .bokra, .copyrights, .img_credit, .ucp, [class*="banner"], [class*="share"], [id*="kcs_made"], [id*="newsletter"], [id*="slide-article"], [id*="social"], [src*="banner"], div.commercial
+online-tech-tips.com##div[id*="snhb"]
 opengapps.org##[class*="advertis"], [id^="donat"]
 opensubtitles.org##.content > .msg > div > div:nth-of-type(3) > fieldset > .msgarrow, .content > .msg > div > div:nth-of-type(4) > fieldset:nth-of-type(1), .content > .msg > div > div:nth-of-type(4) > fieldset:nth-of-type(2), .hint.msg [style*="clear"], [alt*="at 25 MBit"], [class*="advertisement"], [href*="/opensubtitles-player"], [href*="/profile/iduser-"], [href*="ads2.opensubtitles.org"], [href*="ads.opensubtitles.org"], [href$="/player"][title*="Player"], [id*="main"] > .a_1.a.p, [id*="thank"], [id^="ad"][id$="placeholder"], [id^="network"], [id$="scrubbuad_style"], [id$="submultiedit"] > fieldset, [id$="watch_online"], [src*="/opensubtitles-player"], [src*="ads2.opensubtitles.org"], [src*="ads.opensubtitles.org"], [title*="at 25 MBit"], a[href*="www.amazon.com"], a[onclick*="installSearchEngine"], a[title*="ownload at "][title*="25"], a[title*="ownload"][title*="ubtitles"][title*="earcher"], div.msg[itemtype*="schema.org/Movie"], div[id$="top_msg"], fieldset, table[id*="search_results"] tr[style*="height"]
 openuserjs.org##.fa-legal, nav + .reminders

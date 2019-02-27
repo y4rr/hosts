@@ -548,6 +548,7 @@ advplaces
 adzerk
 adzuna
 affiliate
+airdroid
 ajaxload.info/*adv
 aka.ms
 albar.co.il/ads
