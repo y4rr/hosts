@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Expires:        14 days
-! Last modified:  2019-02-25T16:30:20.000Z+00:00 UTC
-! Version:        20190225163020000
+! Last modified:  2019-03-04T19:53:40.000Z+00:00 UTC
+! Version:        20190304195340000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Block Annoying Connections
-! Rules:          1148
+! Rules:          1147
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts/issues/
@@ -12,6 +12,7 @@
 !!*$beacon
 !!/spf.js
 !!domain.com$redirect=about:blank
+!!ebay.com/*?imp=
 !!google.com/js/bg/
 !!youtube.com/*lazy*.js
 !!youtube.com/*tampering.js
@@ -650,7 +651,6 @@ dx.com/Pattaya
 dx.com/banner
 e.reddit.com/v1
 ebay*/sifr.html
-ebay.com/*?imp=
 ebay.com/*ScandalLoader.js
 ebay.com/*raptor.tracking
 ebay.com/*trknvp
