@@ -67,6 +67,7 @@
 /AdIframePage
 /AdManager
 /AdZone.js
+/Ads.xml
 /Ads/Ads.xml
 /Babator-Connector
 /BrightcoveExperiences_all.js

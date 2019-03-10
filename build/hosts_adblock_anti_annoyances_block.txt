@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Expires:        14 days
-! Last modified:  2019-03-04T19:53:40.000Z+00:00 UTC
-! Version:        20190304195340000
+! Last modified:  2019-03-10T19:49:50.000Z+00:00 UTC
+! Version:        20190310194950000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Block Annoying Connections
-! Rules:          1147
+! Rules:          1148
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts/issues/
@@ -78,6 +78,7 @@
 /AdIframePage
 /AdManager
 /AdZone.js
+/Ads.xml
 /Ads/Ads.xml
 /Babator-Connector
 /BrightcoveExperiences_all.js
