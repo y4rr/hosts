@@ -16,12 +16,14 @@ eladkarako.com
 eladkarako.github.io
 fedsignin.ebay.com
 fibi.co.il
+godaddy.com
 gov.il
 leumi-card.co.il
 leumi.co.il
 leumit.co.il
 localhost
 localhost.com
+max.co.il
 mesg.ebay.com
 mizrahi-tefahot.co.il
 moz-extension-scheme
