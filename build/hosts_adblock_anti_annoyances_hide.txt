@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Expires:        14 days
-! Last modified:  2019-03-10T19:52:50.000Z+00:00 UTC
-! Version:        20190310195250000
+! Last modified:  2019-03-21T13:05:30.000Z+00:00 UTC
+! Version:        20190321130530000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Hide Annoying Elements
-! Rules:          291
+! Rules:          292
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts/issues/
@@ -141,6 +141,7 @@ independent.co.uk##.gutter-ads, .partners, .right-hand-column, .share-bar, .shar
 infoworld.com##.ad, .article-intercept, .brand, .follow, .social, .sosh, [class*="apart"], [class*="more"], [class*="promo"], [id*="aboola"], figcaption
 inhabitat.com##.right-wrapp, .socials, [id*="post-header"]
 instructables.com##.mediaset
+internet-israel.com##[id="widgets"]
 irispeleg.com##.floatingarea
 israelpost.co.il##[id^="Adv"]
 issuetracker.google.com##.modal-dialog-bg, [data-name*="termsOfService"]
@@ -175,7 +176,7 @@ microsoft.com##.feedback-form, .feedback-section, .header-holder, .m-hero, .m-he
 microsoft.com/en-us/download##.CSPvNext > .no-margin-row.row-fluid:nth-of-type(2) > .sortable-control.bp1-clear.bp1-col-3-3.bp2-clear.bp2-col-6-6.bp3-col-12-3, .feedback-form, .feedback-section, .m-hero, .m-hero-item.context-accessory, .openfeedback-container, .pageActions, .shell-footer, .survey-invitation, [id^="hp-feedback"], [id^="page-actions"], [id^="slide-"], body > .row-fluid:nth-of-type(3), body > .row-fluid:nth-of-type(5) > .bp3-col-1-1.bp2-col-1-1.bp1-col-1-1.bp0-col-1-1, div.sidebar[id^="sidebar"], noscript, section picture[class*="hidden-focus"], survey-invitation
 mirrorcreator.com##[id$="cloudup"], [id$="depositfiles"], [id$="dropbox"], [id$="filefactory"], [id$="fourshared"], [id$="lolabits"], [id$="oboom"], [id$="rapidgator"], [id$="twoshared"], [id$="uploadednet"], [id$="ziddu"], a[href*="href="dropjiffy"], div.banner, div.featured, div.highlight.term, div.info, div.infodisplay, div.shadow, div.userinfo
 mizbala.com##.author-box, [class*="essb"], [class*="sidebar"], [id^="back-top"], [id^="expim"], [id^="job"]
-morfix.co.il##.adv_ph, .features_menu, .keyboard, .keyboard_container, .result_seperator, .widgetContainer, .wordOfTheDayContainer, [class*="footer"], [class*="social_shares"], [id*="footer"], [id*="header"], [id*="social_shares"], [id^="teaser"], [onclick*="newsletter"]
+morfix.co.il##.adv_ph, .features_menu, .GameSmall, .keyboard, .keyboard_container, .loadingBar, .result_seperator, .topTranslationButtons, .Translationresult_header, .widgetContainer, .wordOfTheDayContainer, [class*="dialog"], [class*="footer"], [class*="modal"], [class*="social_shares"], [class*="top_Container"], [class*="wordoftheday"], [id*="Advertisement"], [id*="DeskTopHomeAdv"], [id*="dialog"], [id*="footer"], [id*="header"], [id*="loadingBar"], [id*="modal"], [id*="morfixschoolal"], [id*="renderBody"] + *, [id*="social_shares"], [id^="teaser"], [id$="Adv"], [onclick*="newsletter"]
 motherless.com##.adgal, .menu-ad, .requirements, [class*="media-action-codes"], [class*="notice"], [id*="-ad-cams"], [id*="top-referers-row"], a[href][onmouseover], a[href^="http"]:not([href*="//motherless.com/"]), iframe, img[alt^="motherless is the shit"], noscript
 mozilla.org##[aria-label*="request to take survey"], [class*="site-balloon"], [id*="sg-popup"], a[href*="surveygizmo.com"], div[style*="height"]:empty
 msn.co.il,msn.com##[data-aairfg], [id*="precontent"], [id*="prefooter"], [id*="sticky-footer"], [x-enc1], iframe[src*="msn.com/g00"]

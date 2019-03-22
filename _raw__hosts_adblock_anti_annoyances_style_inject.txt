@@ -59,6 +59,7 @@ metro.co.uk##.article-body:style(width:100% !important;)
 metro.co.uk##[id^="post-content"]:style(width:100% !important;)
 microsoft.com##[class*="mscom-accordion-item"]:style(display:block !important;)
 microsoft.com##[id*="refineDrawer"]:style(display:block !important;)
+morfix.co.il##.CentralDivInner:style(margin-top:30px !important;)
 morfix.co.il##.searchField:style(padding:2pt !important;)
 novafusion.pl##[class*="ainfo"]:style(display:block !important;)
 ourcodeworld.com##.content > .row > .row > div[class*="col-"]:not([id]):style(width:100% !important;);
