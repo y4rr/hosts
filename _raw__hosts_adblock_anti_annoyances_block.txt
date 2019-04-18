@@ -724,6 +724,7 @@ firefox.com/metrics
 firefox.com/metrics-errors
 forbes.com/ajax/getUniregUserData
 forum.piriform.com/uploads/profile/photo-thumb-
+forum.xda-developers.com/*/xda-square.png
 forum.xda-developers.com/*sponsor_logic.js
 fosshub.com/*donate
 fsdn.com/*adframe.js

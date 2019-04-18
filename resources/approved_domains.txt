@@ -1,3 +1,4 @@
+resolutioncenter.ebay.com
 192.168.0.1
 192.168.0.196
 about-scheme
