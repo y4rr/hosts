@@ -65,7 +65,6 @@
 /\/bati\//
 /\/clickme\//
 /\/cspreport\//
-/\/customavatars\//
 /\/deals\//
 /\/delivery\//
 /\/eu-cookie-law\//
@@ -84,7 +83,6 @@
 /\/pixel\//
 /\/plsr\//
 /\/popupclick\//
-/\/stats\//
 /\/status-beacon\//
 /\/track\//
 /\/trackclk\//
@@ -100,7 +98,6 @@
 /^adwords\./
 /abadfree
 /ablockhint.js
-/accessibility.js
 /ad-scroll.js
 /ad.gif
 /adFeedback
@@ -187,8 +184,6 @@
 /client-timings
 /clipboard.js
 /clipboard.min.js
-/cloudflare.js
-/cloudflare.min.js
 /cnt.php
 /coinhive.js
 /coinhive.min.js
@@ -517,15 +512,11 @@ ScandalSupportGFA
 __utm.gif
 a-ads.com
 ab=promo
-accessibility.*/Loader/Init
-accessibility.*/Loader/head
 accounts.firefox.com/*$important,third-party
 accounts.firefox.com/metrics
-accounts.google.com/o/oauth2/iframe*$important,subdocument,third-party
 accuweather.com/*Ad_
 ad-center.com
 ad_rule
-addthis
 addthis_widget.js
 adid=
 adonis
@@ -534,14 +525,11 @@ ads.
 ads.js
 ads.min.js
 adservice.google
-advert
 advplaces
 adzerk
 adzuna
-affiliate
 airdroid
 ajaxload.info/*adv
-aka.ms
 albar.co.il/ads
 alljobs.co.il/Partners
 amazon.com/*sitewide-iframe
@@ -555,8 +543,6 @@ apis.google.com$important,domain=onhax.me
 apis.google.com/*fastbutton*$third-party
 apis.google.com/*plusone*$third-party
 apkmb.com$important,script,inline-script,subdocument,xmlhttprequest,third-party
-asmjs
-astrology
 authedmine
 authedminer
 awacs.co.il/extbanners
@@ -567,7 +553,6 @@ bj-lazy-load
 blogger.*/*widgets
 blogger.*/followers
 blogger.com/*widgets
-bugreport
 c.microsoft.com/trans_pixel
 campaign.*.co.il
 cdn.torrentfunk.com/dl20.png
@@ -578,15 +563,12 @@ celebrity-leaks.net$important,script,inline-script,subdocument,xmlhttprequest,th
 chartbeat
 chatango.com
 chelpus.defcon5.biz/link_counter.php
-chromecontentsuggestions
-chromereader
 chromium-i18n-canary.appspot.com/ssl-translate-ranker-model
 cinemablend.com/js/lib.js
 click_banner
 clicktr
 clicktr=
 clicktracker
-cloudflare.com
 cloudfront.net$important,domain=onhax.me
 cloudfront.net/?cdlad=
 cloudfront.net/id.js
@@ -708,7 +690,6 @@ globes.co.il/shared
 godaddy.com/*rebrand-bg-image.jpg
 godaddy.com/pageevents
 goodshare
-google*/insights
 google-analytics
 google.*/webpagethumbnail
 google.co.il/async/newtab_ogb
@@ -730,7 +711,6 @@ google.com/afs
 google.com/analytics/web/inpage/pub/inpage.js
 google.com/appserve/security-bugs
 google.com/async/newtab_ogb
-google.com/chromesuggestions
 google.com/cr/report
 google.com/fdfe/log
 google.com/js/platform.js
@@ -742,7 +722,6 @@ google.com/tbproxy
 google.com/uds
 google.com/uds/api/ads
 google.com/uds/stats
-google.com/webpagethumbnail
 google.com/webstore/csp_report
 googleAd
 googleads
@@ -750,7 +729,6 @@ googleadservices
 googleapis.com$important,domain=onhax.me
 googleapis.com$important,domain=xhamster.com
 googleapis.com/androidcheck
-googleapis.com/auth/chrome-content-suggestions
 googleapis.com/instore
 googleapis.com/log
 googleapis.com/play/log
@@ -759,7 +737,6 @@ googleapis.com/youtubei/v1/log_interaction
 googlesyndication.com
 googletagmanager
 googletagservices.com
-googleusercontent.com/*photo$image,domain=stackexchange.com|stackapps.com|askubuntu.com|serverfault.com|stackoverflow.com|superuser.com
 googlevideo.com/videogoodput
 graph.facebook.com/?id
 gstatic.com$important,domain=xhamster.com
@@ -873,7 +850,6 @@ mozilla.org/metrics-errors
 mssplus.mcafee.com/mssplus.txt
 mysticism
 nahala.co.il/mimisites
-napkin
 netanyanet.co.il/images/banners
 netek.co.il/banners
 networkworld.com/www/js/ads
@@ -901,8 +877,6 @@ onlytss.com$important,domain=ebay.com
 ooyala
 osdownloader.org
 outbrain.com
-p=subscribe
-p=unsubscribe&uid=
 pagefair
 pagespeed_beacon
 pandora.com/radio/services/brokenAd.jsp
@@ -933,7 +907,6 @@ plus.google.com/+outbrain/
 plus.google.com/+taboola/
 plus.google.com/outbrain
 pooradb
-promotion
 proxyonetpb.pet$important,script,inline-script,subdocument,xmlhttprequest,third-party
 public-ads-manager
 public-api.wordpress.com/connect
@@ -962,7 +935,6 @@ redditstatic.com/ad
 redditstatic.com/display*.js
 redditstatic.com/moat
 redditstatic.com/recommended-link
-refer=
 robtex.com$image
 robtex.com/*.png$important,domain=robtex.com
 robtex.com/*graph.gif
@@ -1003,7 +975,6 @@ soft32.com
 srcid=[PUBID]
 stack.imgur.com/$image,domain=stackexchange.com|stackapps.com|askubuntu.com|serverfault.com|stackoverflow.com|superuser.com
 stackoverflow.com/posts/*ivc
-stackpathdns
 submityourflicks.com/*bl.php
 t.co/i/adsct
 taboola.com
@@ -1072,10 +1043,7 @@ walla.co.il/resources/js/common.js
 wcdn.co.il/api
 wf/click?
 windgetbook
-worker-asmjs
-ws\:\/\/
 wsimg.com/*rebrand-bg-image.jpg
-wss\:\/\/
 www.facebook.com/babylonsoftwareltd
 www.google.*/ads/
 xda-cdn.com/*favicons
@@ -1135,5 +1103,3 @@ youtube.com/youtubei/v1/log_event
 youtube.com/youtubei/v1/log_interaction
 youtube.com/youtubei/v1/upload/feedback
 yts.ag/images/vpn
-zoneid=*&var=*
-|blob:$script
