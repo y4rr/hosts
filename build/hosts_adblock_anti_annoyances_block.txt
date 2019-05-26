@@ -7,7 +7,7 @@
 ! Homepage:       https://github.com/y4rr/hosts/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts/issues/
-! Download:       https://github.com/y4rr/hosts/raw/master/build/hosts_adblock_anti_annoyances_block.txt
+! Download:       https://raw.githubusercontent.com/y4rr/hosts/master/build/hosts_adblock_anti_annoyances_block.txt
 ! --------------------------------------------------------------------------------------
 !!*$beacon
 !!/spf.js
