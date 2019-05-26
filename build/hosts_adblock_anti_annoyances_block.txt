@@ -4,10 +4,10 @@
 ! Version:        20190405170000000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Block Annoying Connections
 ! Rules:          1172
-! Homepage:       http://hosts.eladkarako.com/
+! Homepage:       https://github.com/y4rr/hosts/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts/issues/
-! Download:       https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock_anti_annoyances_block.txt
+! Download:       https://github.com/y4rr/hosts/raw/master/build/hosts_adblock_anti_annoyances_block.txt
 ! --------------------------------------------------------------------------------------
 !!*$beacon
 !!/spf.js
@@ -20,48 +20,6 @@
 *##^meta[http-equiv="refresh"]
 *##^noscript
 *$important,script,inline-script,subdocument,xmlhttprequest,third-party,domain=apkmb.com|baypirateproxy.org|celeb.gate.cc|celebrity-leaks.net|eztv.ag|eztv.io|ikwildepiratebay.org|internet-israel.com|old.robtex.com|onhax.me|proxyonetpb.pet|rarbgtor.org|reddit.com|robtex.com|thefappening.one|thefappening.pro|thefappening.sexy|thefappening.top|thefappening.wiki|thefappeningblog.com|thepiratebay-proxylist.se|thepiratebay.org|uploadproper.com|uplod.ws|xhcdn.com|yifymovieonline.com
-*$websocket
-.ai/
-.apk.apk
-.bid/
-.biz/
-.ca/
-.cafe/
-.cf/
-.ch/
-.church/
-.club/
-.cn/
-.co/
-.fcgi
-.fm/
-.fr/
-.friends/
-.ga/
-.gq/
-.gr/
-.in/
-.land/
-.live/
-.men/
-.ml/
-.mobi/
-.mx/
-.onion/
-.online/
-.ph/
-.press/
-.pro/
-.ru/
-.site/
-.stream/
-.tech/
-.tk/
-.top/
-.us/
-.win/
-.xyz/
-.zone/
 /!_lb.php
 /*Ebay_Banners
 /*adblock*.js
@@ -458,7 +416,6 @@
 /wait
 /walla/minisite
 /webanalytics
-/websocket
 /webtagging.js
 /webtrends.js
 /wf/click
@@ -649,10 +606,6 @@ dailymail.co.uk/*maildating*.swf
 dailymail.co.uk/adstest
 dailymail.co.uk/static/mol-adverts
 dailymotion.com/sharer
-data: application/pdf;
-data: text/html;
-data:application/pdf;
-data:text/html;
 datacaciques.com/js/trackr.js
 datafilehost.com/demo
 dcampaigns.*.co.il
@@ -660,9 +613,7 @@ developers.google.com/web/images/contributors/
 deviantart.com/*block-notice
 deviantart.net/*block-notice
 deviantart.net/minish/block-notice/back.png
-disqus.com/
 disqus.com/count.js
-disqus.com/embed
 doubleTap
 doubleclick
 doubleclick.com
@@ -811,8 +762,6 @@ googletagservices.com
 googleusercontent.com/*photo$image,domain=stackexchange.com|stackapps.com|askubuntu.com|serverfault.com|stackoverflow.com|superuser.com
 googlevideo.com/videogoodput
 graph.facebook.com/?id
-gravatar.com$important,third-party
-gravatar.com/avatar/$image
 gstatic.com$important,domain=xhamster.com
 gstatic.com/csi
 gstatic.com/feedback/api.js
@@ -1122,7 +1071,6 @@ walla.co.il/images/sponsers-logos-sprite.svg
 walla.co.il/resources/js/common.js
 wcdn.co.il/api
 wf/click?
-wikipedia.org/*AutoLogin
 windgetbook
 worker-asmjs
 ws\:\/\/
