@@ -9,14 +9,6 @@
 ! Forums:         https://github.com/eladkarako/hosts/issues/
 ! Download:       https://raw.githubusercontent.com/y4rr/hosts/master/build/hosts_adblock_anti_annoyances_block.txt
 ! --------------------------------------------------------------------------------------
-!!*$beacon
-!!/spf.js
-!!domain.com$redirect=about:blank
-!!ebay.com/*?imp=
-!!google.com/js/bg/
-!!youtube.com/*lazy*.js
-!!youtube.com/*tampering.js
-!!youtube.com/annotation
 *##^meta[http-equiv="refresh"]
 *##^noscript
 *$important,script,inline-script,subdocument,xmlhttprequest,third-party,domain=apkmb.com|baypirateproxy.org|celeb.gate.cc|celebrity-leaks.net|eztv.ag|eztv.io|ikwildepiratebay.org|internet-israel.com|old.robtex.com|onhax.me|proxyonetpb.pet|rarbgtor.org|reddit.com|robtex.com|thefappening.one|thefappening.pro|thefappening.sexy|thefappening.top|thefappening.wiki|thefappeningblog.com|thepiratebay-proxylist.se|thepiratebay.org|uploadproper.com|uplod.ws|xhcdn.com|yifymovieonline.com
@@ -471,7 +463,7 @@
 @@desktop.firmware.mobi/
 @@discountbank.co.il/
 @@eladkarako.com/
-@@eladkarako.github.io/
+@@eladkarako..io/
 @@fedsignin.ebay.com/
 @@fibi.co.il/
 @@godaddy.com/
@@ -499,9 +491,8 @@
 @@wyciwyg-scheme/
 @@xhamster.com/ajax/login.php$first-party
 @@||http://192.168.0
-@@||https://eladkarako.github.io/
-@@||https://gist.githubusercontent.com/eladkarako/
-@@||https://github-production-release-asset-*.s3.amazonaws.com/
+@@||githubusercontent.com^$
+@@||github-production-release-asset-*.s3.amazonaws.com^$
 @@||https://www.ebay.com/myb/*$important
 AdBlock-detection
 Ebay_Banners
@@ -536,8 +527,6 @@ amazon.com/*sitewide-iframe
 amazon.com/adprefs
 android.clients.google.com/fdfe/log
 android.co.il/forum/download/file.php?avatar
-api.github.com/_private/browser/errors
-api.github.com/_private/browser/stats
 api/link.php
 apis.google.com$important,domain=onhax.me
 apis.google.com/*fastbutton*$third-party
@@ -682,8 +671,6 @@ getclicky
 getvero.s3.amazonaws.com/uploads/*.jpg
 getvero.s3.amazonaws.com/uploads/*.js
 gigya
-github.com/outbrain
-github/page_view
 globes.co.il/*Globes_Chrome_PopUp_tr.png
 globes.co.il/Images/NewGlobes/Misc_2/2016/300x50_B.jpg
 globes.co.il/shared
